@@ -30,11 +30,18 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
-### Day 0: April 26, 2017 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 26, 2017
 
 **Today's Progress**: Horizontally and vertically center a nested div. Random quote machine WIP.
 
 **Thoughts:** Man! CSS is still out of sight for me. This is gonna be one long journey. lol.
+
+**Link to work:** [Random quotes machine app ](https://codepen.io/sevensins02/pen/qmNRYP)
+
+### Day 1: April 27, 2017 
+
+**Today's Progress**: Css fixes. Twitter and new quote functionality.
+
+**Thoughts:** I'm spending too much of my energy on less useful things.
 
 **Link to work:** [Random quotes machine app ](https://codepen.io/sevensins02/pen/qmNRYP)
