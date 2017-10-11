@@ -30,18 +30,12 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
-### Day 0: April 26, 2017
+### Day 0: October 11, 2017
 
-**Today's Progress**: Horizontally and vertically center a nested div. Random quote machine WIP.
+**Today's Progress**: Setup a spotify clone project structure; omnifood project without device responsiveness
 
-**Thoughts:** Man! CSS is still out of sight for me. This is gonna be one long journey. lol.
+**Thoughts:** Took time setting up the project structure but I got the hang of it. Got to tick stuff off my list faster.
+CSS is fun!
 
-**Link to work:** [Random quotes machine app ](https://codepen.io/sevensins02/pen/qmNRYP)
-
-### Day 1: April 27, 2017 
-
-**Today's Progress**: Css fixes. Twitter and new quote functionality.
-
-**Thoughts:** I'm spending too much of my energy on less useful things.
-
-**Link to work:** [Random quotes machine app ](https://codepen.io/sevensins02/pen/qmNRYP)
+**Link to work:** [Spotify clone app](https://github.com/SevenSinS02/spotify-clone)
+[omnifood](no links yet)
