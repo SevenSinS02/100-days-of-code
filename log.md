@@ -39,3 +39,12 @@ CSS is fun!
 
 **Link to work:** [Spotify clone app](https://github.com/SevenSinS02/spotify-clone)
 [omnifood](no links yet)
+
+### Day 1: October 12, 2017
+
+**Today's Progress**: finished html structure; omnifood project device responsiveness 
+
+**Thoughts:** login page looks ugly. CSS WIP. feeling more relaxed with react, html,css.
+
+**Link to work:** [Spotify clone app](https://github.com/SevenSinS02/spotify-clone)
+[omnifood](no links yet)
