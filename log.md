@@ -48,3 +48,11 @@ CSS is fun!
 
 **Link to work:** [Spotify clone app](https://github.com/SevenSinS02/spotify-clone)
 [omnifood](no links yet)
+
+### Day 2: October 27, 2017
+
+**Today's Progress**: finished header section for natours
+
+**Thoughts:** learnt a lot about html/css. Hiding the button was interesting
+
+**Link to work:** [natours] (https://github.com/SevenSinS02/natours)
